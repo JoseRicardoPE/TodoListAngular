@@ -1,0 +1,26 @@
+.todo-block {
+    max-width: 37.5rem;
+    min-height: 25rem;
+    background-color: #fff;
+    margin: 1.25rem 0;
+    border-radius: 0.625rem;
+    box-shadow: 0rem 0rem 0.625rem #00000052;
+}
+.todo-header {
+    background-color: #00bcd4;
+    padding: 0.625rem;
+    border-radius: 0.4375rem;
+    text-align: center;
+}
+.todo-input {
+    padding: 0 0.625rem;
+}
+.input {
+    border: 0.0625rem solid transparent;
+    border-bottom-color: #dee2e6;
+    outline: none;
+}
+.todo-list input,
+.todo-list label {
+    cursor: pointer;
+}
